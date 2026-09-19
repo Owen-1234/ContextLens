@@ -16,11 +16,16 @@ Turn one historical Shanghai address into four source-backed answers:
 
 <p>
   <a href="#-quick-start">Quick Start</a> ·
+  <a href="media/contextlens-aaai-demo.mp4">Demo Video</a> ·
   <a href="#-the-four-answer-workflow">Product</a> ·
   <a href="#-evidence-and-data">Data</a> ·
   <a href="#-architecture">Architecture</a> ·
   <a href="#-validation">Validation</a>
 </p>
+
+### 🎬 AAAI Demo Video
+
+**[Watch the ContextLens AAAI demo video](media/contextlens-aaai-demo.mp4)**
 
 </div>
 
