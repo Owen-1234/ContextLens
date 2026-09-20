@@ -157,7 +157,7 @@ Requirements: **Python 3.10 or newer**. The packaged product does not require a 
 Or start it from a terminal:
 
 ```bash
-git clone https://github.com/StableTradeAtlas/ContextLens.git
+git clone https://github.com/Owen-1234/ContextLens.git
 cd ContextLens
 ./start-contextlens
 ```
