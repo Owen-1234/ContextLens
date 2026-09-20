@@ -15,6 +15,14 @@ Turn one historical Shanghai address into four source-backed answers:
 </p>
 
 <p>
+  <a href="docs/publications/contextlens-aaai27-demo-paper.pdf"><img alt="Read the AAAI-27 demo paper" src="https://img.shields.io/badge/Paper-PDF-8B1E3F?style=for-the-badge"></a>
+  <a href="docs/publications/contextlens-aaai27-poster.pdf"><img alt="View the poster" src="https://img.shields.io/badge/Poster-PDF-1F5C99?style=for-the-badge"></a>
+  <a href="docs/publications/contextlens-aaai27-slides.pdf"><img alt="View the slides" src="https://img.shields.io/badge/Slides-PDF-6B4FA1?style=for-the-badge"></a>
+  <a href="docs/publications/contextlens-aaai27-supplement.pdf"><img alt="Read the supplement" src="https://img.shields.io/badge/Supplement-PDF-2F6B5F?style=for-the-badge"></a>
+</p>
+
+<p>
+  <a href="#research-outputs">Research Outputs</a> ·
   <a href="#-quick-start">Quick Start</a> ·
   <a href="media/contextlens-aaai-demo.mp4">Demo Video</a> ·
   <a href="#-the-four-answer-workflow">Product</a> ·
@@ -30,6 +38,16 @@ Turn one historical Shanghai address into four source-backed answers:
 </div>
 
 ---
+
+## Research Outputs
+
+| Output | Description | Access |
+|---|---|:---:|
+| Demo paper | *ContextLens: An Evidence-Grounded Agent for Verifiable Historical Address Investigation* | [PDF](docs/publications/contextlens-aaai27-demo-paper.pdf) |
+| Technical supplement | Additional system and evaluation details | [PDF](docs/publications/contextlens-aaai27-supplement.pdf) |
+| Academic poster | A0 visual summary | [PDF](docs/publications/contextlens-aaai27-poster.pdf) |
+| Presentation slides | 20-page presentation deck | [PDF](docs/publications/contextlens-aaai27-slides.pdf) |
+| Publication archive | Compilation notes and file provenance | [Open](docs/publications/README.md) |
 
 ## Why ContextLens?
 
