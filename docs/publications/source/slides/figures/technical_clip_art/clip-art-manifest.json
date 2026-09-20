@@ -1,0 +1,221 @@
+{
+  "schema_version": "1.0",
+  "set_id": "contextlens-technical-clip-art-v1",
+  "title": "ContextLens Technical Clip-Art Set",
+  "purpose": "Support the ContextLens slide deck with a coherent visual vocabulary for historical place resolution, ambiguity, evidence auditing, scope, and the relationship to StableTradeAtlas.",
+  "source": {
+    "kind": "paper",
+    "title": "ContextLens: An Evidence-Grounded Agent for Verifiable Historical Address Investigation",
+    "locator": "main.tex, slides 2 and 9-12"
+  },
+  "target_figure": {
+    "type": "16:9 academic presentation",
+    "background": "light",
+    "placement": "One compact semantic illustration on each selected text-heavy slide; one larger hero illustration on the acknowledgment slide"
+  },
+  "evidence_boundary": "These assets are conceptual illustrations. They do not encode measured values, empirical results, causal effects, certification, implementation status, or a claim that ContextLens was developed within StableTradeAtlas.",
+  "art_direction": {
+    "mode": "editorial-vector",
+    "viewpoint": "front orthographic with restrained depth cues",
+    "outline": "2 px equivalent, dark navy, round caps and joins",
+    "lighting": "flat scientific illustration with no cast shadow",
+    "detail_level": "medium-low for legibility at slide-icon size",
+    "palette": {
+      "ink": "#18324A",
+      "surface": "#F5F7FB",
+      "primary": "#315EFB",
+      "secondary": "#14877D",
+      "status_accent": "#D97745",
+      "divider": "#CBD5E1"
+    }
+  },
+  "hero_asset_id": "project-bridge",
+  "contact_sheet": "contact-sheet.png",
+  "assets": [
+    {
+      "id": "project-bridge",
+      "concept": "Two related but distinct research deliverables",
+      "semantic_role": "hero",
+      "source_locator": "Acknowledgments slide; user clarification that ContextLens developed beyond the Shanghai Library Open Data Contest project",
+      "evidence_status": "conceptual-mechanism",
+      "file": "assets/project-bridge.svg",
+      "format": "svg",
+      "source_type": "original-vector",
+      "description": "An archive-record stack and a dossier with a lens remain visibly separate while a dotted bridge connects them.",
+      "alt_text": "Separate archive records and an investigative dossier connected by a dotted bridge.",
+      "visual_recipe": [
+        "archive record stack on the left",
+        "investigative dossier and magnifying lens on the right",
+        "dotted curved bridge between distinct objects"
+      ],
+      "unsupported_implications": [
+        "ContextLens was developed within StableTradeAtlas",
+        "organizational ownership",
+        "measured project impact"
+      ],
+      "palette_roles": ["ink", "surface", "primary", "secondary", "status_accent", "divider"],
+      "viewpoint": "front orthographic",
+      "placement": {
+        "preferred_panel": "Acknowledgments, left illustration column",
+        "anchor": "center",
+        "min_width_px": 180,
+        "clear_space_percent": 14,
+        "background_compatibility": "light"
+      },
+      "provenance": {
+        "authoring_method": "Native SVG geometry",
+        "created_on": "2026-09-19",
+        "editable_master": "assets/project-bridge.svg"
+      },
+      "checksum_sha256": "ecb4015d149469b9f69f8419c00368c61a74c25daf826e3381cf5872f4864f68"
+    },
+    {
+      "id": "archive-place",
+      "concept": "A place record whose meaning depends on time",
+      "semantic_role": "data",
+      "source_locator": "Why historical addresses are difficult to verify slide",
+      "evidence_status": "conceptual-mechanism",
+      "file": "assets/archive-place.svg",
+      "format": "svg",
+      "source_type": "original-vector",
+      "description": "A historical record combines a place marker with a clock.",
+      "alt_text": "Historical record with a place marker and clock.",
+      "visual_recipe": [
+        "stacked archival sheets",
+        "cobalt location marker",
+        "small time dial"
+      ],
+      "unsupported_implications": [
+        "precise geolocation",
+        "complete archival coverage",
+        "automatic temporal resolution"
+      ],
+      "palette_roles": ["ink", "surface", "primary", "secondary", "status_accent", "divider"],
+      "viewpoint": "front orthographic",
+      "placement": {
+        "preferred_panel": "Motivation heading",
+        "anchor": "left",
+        "min_width_px": 120,
+        "clear_space_percent": 12,
+        "background_compatibility": "light"
+      },
+      "provenance": {
+        "authoring_method": "Native SVG geometry",
+        "created_on": "2026-09-19",
+        "editable_master": "assets/archive-place.svg"
+      },
+      "checksum_sha256": "9c97ac9176da42edff37815fc3cc58be262da79af488d47c3e088a357b5e4389"
+    },
+    {
+      "id": "ambiguity-branches",
+      "concept": "One historical address retaining competing place candidates",
+      "semantic_role": "process",
+      "source_locator": "Explicit ambiguity and unresolved states slide",
+      "evidence_status": "conceptual-mechanism",
+      "file": "assets/ambiguity-branches.svg",
+      "format": "svg",
+      "source_type": "original-vector",
+      "description": "One address record branches toward two distinct map candidates without selecting a winner.",
+      "alt_text": "One address record branching to two candidate map locations.",
+      "visual_recipe": [
+        "single input record",
+        "two symmetric branch paths",
+        "two distinct candidate tiles"
+      ],
+      "unsupported_implications": [
+        "equal candidate probabilities",
+        "successful disambiguation",
+        "complete candidate recall"
+      ],
+      "palette_roles": ["ink", "surface", "primary", "secondary", "status_accent", "divider"],
+      "viewpoint": "front orthographic",
+      "placement": {
+        "preferred_panel": "Ambiguity claim box",
+        "anchor": "left",
+        "min_width_px": 120,
+        "clear_space_percent": 12,
+        "background_compatibility": "light"
+      },
+      "provenance": {
+        "authoring_method": "Native SVG geometry",
+        "created_on": "2026-09-19",
+        "editable_master": "assets/ambiguity-branches.svg"
+      },
+      "checksum_sha256": "49f48df4cb3ca54042fde170170673b881e73626bd654c08d6c331544775edff"
+    },
+    {
+      "id": "audit-ledger",
+      "concept": "Inspection of structured evidence and provenance",
+      "semantic_role": "instrument",
+      "source_locator": "Implementation and verification slide",
+      "evidence_status": "conceptual-mechanism",
+      "file": "assets/audit-ledger.svg",
+      "format": "svg",
+      "source_type": "original-vector",
+      "description": "A magnifying lens examines a structured record ledger and linked provenance markers.",
+      "alt_text": "Magnifying lens inspecting a structured evidence ledger.",
+      "visual_recipe": [
+        "structured record card",
+        "provenance nodes",
+        "magnifying lens crossing the record boundary"
+      ],
+      "unsupported_implications": [
+        "external certification",
+        "perfect audit coverage",
+        "retrieval accuracy"
+      ],
+      "palette_roles": ["ink", "surface", "primary", "secondary", "status_accent", "divider"],
+      "viewpoint": "front orthographic",
+      "placement": {
+        "preferred_panel": "Implementation interpretation box",
+        "anchor": "left",
+        "min_width_px": 120,
+        "clear_space_percent": 12,
+        "background_compatibility": "light"
+      },
+      "provenance": {
+        "authoring_method": "Native SVG geometry",
+        "created_on": "2026-09-19",
+        "editable_master": "assets/audit-ledger.svg"
+      },
+      "checksum_sha256": "9d5c9806af1304203710a51a121c80328e134b2ee3eaee83b5add4fbf145bf90"
+    },
+    {
+      "id": "scope-boundary",
+      "concept": "Explicit boundary around the supported investigation scope",
+      "semantic_role": "risk",
+      "source_locator": "Scope and evaluation agenda slide",
+      "evidence_status": "conceptual-mechanism",
+      "file": "assets/scope-boundary.svg",
+      "format": "svg",
+      "source_type": "original-vector",
+      "description": "A map and dossier sit inside a dashed investigation boundary while an unrelated record remains outside.",
+      "alt_text": "Map and dossier inside a dashed scope boundary, with another record outside.",
+      "visual_recipe": [
+        "dashed rounded boundary",
+        "map and dossier inside",
+        "separate record outside"
+      ],
+      "unsupported_implications": [
+        "safety certification",
+        "universal coverage",
+        "automatic rejection of every out-of-scope query"
+      ],
+      "palette_roles": ["ink", "surface", "primary", "secondary", "status_accent", "divider"],
+      "viewpoint": "front orthographic",
+      "placement": {
+        "preferred_panel": "Scope claim box",
+        "anchor": "left",
+        "min_width_px": 120,
+        "clear_space_percent": 12,
+        "background_compatibility": "light"
+      },
+      "provenance": {
+        "authoring_method": "Native SVG geometry",
+        "created_on": "2026-09-19",
+        "editable_master": "assets/scope-boundary.svg"
+      },
+      "checksum_sha256": "f23e81a8579231b16b964e5e5159490132841c719e3a97b9731bfd7390f07486"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Public and community impact</title>
+  <desc id="desc">Three community members gather around a shared place marker and evidence record.</desc>
+  <g stroke="#17324D" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M155 94c0 24-30 49-30 49S95 118 95 94a30 30 0 1 1 60 0z" fill="#8C52FF"/>
+    <circle cx="125" cy="94" r="10" fill="#FFFFFF" stroke="none"/>
+    <circle cx="53" cy="158" r="20" fill="#FFD95A"/>
+    <circle cx="125" cy="178" r="20" fill="#00A85A"/>
+    <circle cx="199" cy="158" r="20" fill="#8C52FF"/>
+    <path d="M25 212c6-28 50-28 56 0M97 232c6-28 50-28 56 0M171 212c6-28 50-28 56 0" fill="#F8F6FF"/>
+    <path d="M73 145l31-25M178 145l-31-25" fill="none" stroke="#CBD5E1"/>
+  </g>
+</svg>

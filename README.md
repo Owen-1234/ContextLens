@@ -43,11 +43,12 @@ Turn one historical Shanghai address into four source-backed answers:
 
 | Output | Description | Access |
 |---|---|:---:|
-| Demo paper | *ContextLens: An Evidence-Grounded Agent for Verifiable Historical Address Investigation* | [PDF](docs/publications/contextlens-aaai27-demo-paper.pdf) |
-| Technical supplement | Additional system and evaluation details | [PDF](docs/publications/contextlens-aaai27-supplement.pdf) |
-| Academic poster | A0 visual summary | [PDF](docs/publications/contextlens-aaai27-poster.pdf) |
-| Presentation slides | 20-page presentation deck | [PDF](docs/publications/contextlens-aaai27-slides.pdf) |
-| Publication archive | Compilation notes and file provenance | [Open](docs/publications/README.md) |
+| Demo paper | *ContextLens: An Evidence-Grounded Agent for Verifiable Historical Address Investigation* | [Preview](docs/publications/contextlens-aaai27-demo-paper.pdf) · [Source](docs/publications/source/paper/) |
+| Technical supplement | Architecture, data flow, and appendix | [Preview](docs/publications/contextlens-aaai27-supplement.pdf) · [Source](docs/publications/source/supplement/) |
+| Academic poster | A0 visual summary | [Preview](docs/publications/contextlens-aaai27-poster.pdf) · [Source](docs/publications/source/poster/) |
+| Presentation slides | Final revised 20-slide Beamer deck | [Preview](docs/publications/contextlens-aaai27-slides.pdf) · [Beamer source](docs/publications/source/slides/) |
+| Demo video | Recorded ContextLens walkthrough | [Play](media/contextlens-aaai-demo.mp4) |
+| Publication archive | Browser previews, source bundles, and build notes | [Open](docs/publications/README.md) |
 
 ## Why ContextLens?
 

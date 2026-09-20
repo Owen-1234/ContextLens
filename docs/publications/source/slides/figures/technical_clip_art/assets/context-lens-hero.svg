@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">ContextLens evidence investigation</title>
+  <desc id="desc">A historical record with a place marker is inspected through a magnifying lens and linked evidence nodes.</desc>
+  <g stroke="#18324A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 30h105l31 31v139H36z" fill="#F5F7FB"/>
+    <path d="M141 30v32h31" fill="#FFFFFF"/>
+    <path d="M58 75h62M58 92h46" fill="none" stroke="#CBD5E1"/>
+    <path d="M103 128c0 24-30 49-30 49s-30-25-30-49a30 30 0 1 1 60 0z" fill="#315EFB"/>
+    <circle cx="73" cy="128" r="10" fill="#FFFFFF" stroke="none"/>
+    <circle cx="160" cy="157" r="45" fill="#FFFFFF" fill-opacity="0.88"/>
+    <path d="M192 190l31 31" fill="none" stroke="#14877D" stroke-width="14"/>
+    <path d="M55 211h39M111 211h24" fill="none" stroke="#CBD5E1"/>
+    <circle cx="48" cy="211" r="8" fill="#D97745" stroke="none"/>
+    <circle cx="103" cy="211" r="8" fill="#14877D" stroke="none"/>
+    <circle cx="143" cy="211" r="8" fill="#315EFB" stroke="none"/>
+  </g>
+</svg>

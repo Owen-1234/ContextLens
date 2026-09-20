@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">StableTradeAtlas route atlas</title>
+  <desc id="desc">A globe and trade route connect to an open-data ledger.</desc>
+  <g stroke="#17324D" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="90" cy="126" r="67" fill="#F8F6FF" stroke="#8C52FF"/>
+    <path d="M23 126h134M90 59c-30 24-30 110 0 134M90 59c30 24 30 110 0 134" fill="none" stroke="#CBD5E1"/>
+    <path d="M51 151c31-45 69-46 107-8 17 17 35 10 51-7" fill="none" stroke="#00A85A"/>
+    <circle cx="51" cy="151" r="9" fill="#8C52FF" stroke="none"/>
+    <circle cx="132" cy="130" r="9" fill="#FFD95A" stroke="none"/>
+    <circle cx="209" cy="136" r="9" fill="#00A85A" stroke="none"/>
+    <path d="M161 57h62v140h-62z" fill="#FFFFFF"/>
+    <path d="M178 88h29M178 112h29M178 160h29" fill="none" stroke="#CBD5E1"/>
+  </g>
+</svg>

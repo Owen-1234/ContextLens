@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Dated place record</title>
+  <desc id="desc">A historical map record combines a location marker with a clock.</desc>
+  <g fill="none" stroke="#18324A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M41 29h112l35 35v150H41z" fill="#F5F7FB" stroke="#315EFB"/>
+    <path d="M153 29v38h35" fill="#FFFFFF" stroke="#315EFB"/>
+    <path d="M55 85c29-18 53-3 78-18 17-10 30-8 43-3" stroke="#CBD5E1"/>
+    <path d="M58 154c23-23 44-25 67-8 17 12 32 9 49-2" stroke="#14877D"/>
+    <path d="M68 75v110M111 71v99M153 79v75" stroke="#CBD5E1" stroke-width="3"/>
+    <path d="M105 79c-20 0-36 16-36 36 0 29 36 58 36 58s36-29 36-58c0-20-16-36-36-36z" fill="#315EFB"/>
+    <circle cx="105" cy="115" r="11" fill="#FFFFFF" stroke="none"/>
+    <circle cx="181" cy="181" r="49" fill="#FFFFFF" stroke="#18324A"/>
+    <circle cx="181" cy="181" r="39" fill="#F5F7FB" stroke="#CBD5E1" stroke-width="3"/>
+    <path d="M181 151v32l22 13" stroke="#14877D" stroke-width="7"/>
+    <circle cx="181" cy="181" r="6" fill="#D97745" stroke="none"/>
+  </g>
+</svg>

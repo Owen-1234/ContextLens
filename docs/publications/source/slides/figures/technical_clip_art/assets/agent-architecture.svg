@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Trustworthy agent architecture</title>
+  <desc id="desc">A central agent module connects to three distinct architecture components.</desc>
+  <g stroke="#17324D" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 78l45 26v52l-45 26-45-26v-52z" fill="#F8F6FF" stroke="#8C52FF"/>
+    <circle cx="128" cy="130" r="17" fill="#00A85A" stroke="none"/>
+    <path d="M82 104L53 82M82 156l-29 22M174 130h36" fill="none" stroke="#CBD5E1"/>
+    <rect x="20" y="52" width="55" height="50" rx="12" fill="#FFFFFF" stroke="#00A85A"/>
+    <rect x="20" y="154" width="55" height="50" rx="12" fill="#FFFFFF" stroke="#8C52FF"/>
+    <rect x="210" y="105" width="27" height="50" rx="10" fill="#FFD95A"/>
+  </g>
+</svg>

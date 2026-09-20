@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence ledger inspection</title>
+  <desc id="desc">A magnifying lens examines structured records and linked provenance markers.</desc>
+  <g fill="none" stroke="#18324A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="29" y="55" width="137" height="145" rx="12" fill="#E8EEF8" stroke="#CBD5E1"/>
+    <rect x="43" y="40" width="137" height="145" rx="12" fill="#F5F7FB" stroke="#315EFB"/>
+    <path d="M62 68h94M62 91h71M62 114h83M62 137h57" stroke="#CBD5E1" stroke-width="4"/>
+    <circle cx="66" cy="161" r="8" fill="#315EFB" stroke="none"/>
+    <circle cx="98" cy="161" r="8" fill="#14877D" stroke="none"/>
+    <circle cx="130" cy="161" r="8" fill="#D97745" stroke="none"/>
+    <path d="M74 161h16M106 161h16" stroke="#18324A" stroke-width="4"/>
+    <circle cx="167" cy="147" r="48" fill="#FFFFFF" fill-opacity="0.86" stroke="#14877D"/>
+    <path d="M201 181l31 31" stroke="#14877D" stroke-width="12"/>
+    <path d="M143 137h46M143 154h31" stroke="#315EFB" stroke-width="5"/>
+  </g>
+</svg>

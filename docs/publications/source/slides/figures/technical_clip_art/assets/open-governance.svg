@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Open governance workflow</title>
+  <desc id="desc">A shared document branches to three connected community nodes.</desc>
+  <g stroke="#17324D" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M77 40h83l24 24v98H77z" fill="#F8F6FF" stroke="#8C52FF"/>
+    <path d="M160 40v25h24" fill="#FFFFFF"/>
+    <path d="M99 83h61M99 108h48" fill="none" stroke="#CBD5E1"/>
+    <path d="M130 163v25M130 188H56M130 188h70" fill="none" stroke="#00A85A"/>
+    <circle cx="56" cy="202" r="20" fill="#FFFFFF" stroke="#8C52FF"/>
+    <circle cx="130" cy="202" r="20" fill="#FFFFFF" stroke="#00A85A"/>
+    <circle cx="200" cy="202" r="20" fill="#FFFFFF" stroke="#FFD95A"/>
+  </g>
+</svg>

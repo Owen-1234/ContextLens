@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Persistent provenance chain</title>
+  <desc id="desc">A source record remains connected through linked evidence nodes to a final record.</desc>
+  <g stroke="#18324A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 49h69l22 22v122H22z" fill="#F5F7FB"/>
+    <path d="M91 49v23h22" fill="#FFFFFF"/>
+    <path d="M42 94h50M42 116h39" fill="none" stroke="#CBD5E1"/>
+    <path d="M113 132h24M159 132h25" fill="none" stroke="#CBD5E1"/>
+    <circle cx="126" cy="132" r="13" fill="#315EFB"/>
+    <circle cx="149" cy="132" r="13" fill="#14877D"/>
+    <circle cx="184" cy="132" r="9" fill="#D97745" stroke="none"/>
+    <rect x="184" y="70" width="51" height="124" rx="13" fill="#FFFFFF" stroke="#315EFB"/>
+    <path d="M198 96h23M198 117h23M198 158h23" fill="none" stroke="#CBD5E1"/>
+    <circle cx="209" cy="138" r="9" fill="#14877D" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Competing place candidates</title>
+  <desc id="desc">One address record branches toward two distinct map candidates.</desc>
+  <g fill="none" stroke="#18324A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="63" y="25" width="130" height="56" rx="10" fill="#F5F7FB" stroke="#315EFB"/>
+    <path d="M82 45h90M82 61h58" stroke="#CBD5E1" stroke-width="4"/>
+    <path d="M128 81v27M128 108c0 18-57 15-57 43M128 108c0 18 57 15 57 43" stroke="#18324A"/>
+    <circle cx="128" cy="108" r="8" fill="#D97745" stroke="none"/>
+    <rect x="24" y="151" width="94" height="79" rx="12" fill="#F5F7FB" stroke="#315EFB"/>
+    <path d="M36 174h70M42 191c18-13 34-10 58-2M52 160v58M87 160v58" stroke="#CBD5E1" stroke-width="3"/>
+    <path d="M71 166c-12 0-22 10-22 22 0 18 22 35 22 35s22-17 22-35c0-12-10-22-22-22z" fill="#315EFB" stroke="#18324A" stroke-width="4"/>
+    <circle cx="71" cy="188" r="7" fill="#FFFFFF" stroke="none"/>
+    <rect x="138" y="151" width="94" height="79" rx="12" fill="#F5F7FB" stroke="#14877D"/>
+    <path d="M150 173h70M151 204c21-20 39-17 68-5M166 160v58M202 160v58" stroke="#CBD5E1" stroke-width="3"/>
+    <path d="M185 166c-12 0-22 10-22 22 0 18 22 35 22 35s22-17 22-35c0-12-10-22-22-22z" fill="#14877D" stroke="#18324A" stroke-width="4"/>
+    <circle cx="185" cy="188" r="7" fill="#FFFFFF" stroke="none"/>
+  </g>
+</svg>

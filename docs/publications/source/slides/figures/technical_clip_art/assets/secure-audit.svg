@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Secure audit ledger</title>
+  <desc id="desc">A structured ledger is inspected beside an open padlock mechanism.</desc>
+  <g stroke="#17324D" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="30" y="38" width="143" height="177" rx="15" fill="#F8F6FF" stroke="#8C52FF"/>
+    <path d="M58 77h86M58 104h70M58 131h86M58 158h54" fill="none" stroke="#CBD5E1"/>
+    <circle cx="139" cy="158" r="10" fill="#00A85A" stroke="none"/>
+    <rect x="151" y="126" width="77" height="71" rx="15" fill="#FFFFFF" stroke="#00A85A"/>
+    <path d="M168 126V99c0-31 45-31 45 0" fill="none" stroke="#17324D"/>
+    <circle cx="190" cy="157" r="9" fill="#FFD95A" stroke="none"/>
+    <path d="M190 166v13" fill="none"/>
+  </g>
+</svg>

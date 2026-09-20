@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Investigation scope boundary</title>
+  <desc id="desc">A map and dossier sit inside a dashed boundary while an unrelated record remains outside.</desc>
+  <g fill="none" stroke="#18324A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="30" y="31" width="178" height="190" rx="24" stroke="#D97745" stroke-dasharray="10 10"/>
+    <rect x="48" y="58" width="77" height="128" rx="11" fill="#F5F7FB" stroke="#315EFB"/>
+    <path d="M60 86h52M61 112c18-14 30-11 51-1M61 145c18-14 30-11 51-1M75 69v101M103 69v101" stroke="#CBD5E1" stroke-width="3"/>
+    <path d="M87 89c-12 0-22 10-22 22 0 18 22 35 22 35s22-17 22-35c0-12-10-22-22-22z" fill="#315EFB" stroke="#18324A" stroke-width="4"/>
+    <circle cx="87" cy="111" r="7" fill="#FFFFFF" stroke="none"/>
+    <path d="M137 67h48l17 17v103h-65z" fill="#F5F7FB" stroke="#14877D"/>
+    <path d="M185 67v19h17" fill="#FFFFFF" stroke="#14877D"/>
+    <path d="M149 108h39M149 130h32M149 152h37" stroke="#CBD5E1" stroke-width="4"/>
+    <rect x="213" y="92" width="30" height="73" rx="7" fill="#EEF1F4" stroke="#CBD5E1"/>
+    <path d="M221 112h14M221 129h14M221 146h10" stroke="#CBD5E1" stroke-width="3"/>
+  </g>
+</svg>

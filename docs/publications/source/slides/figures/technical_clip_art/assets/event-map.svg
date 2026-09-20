@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence-linked events and maps</title>
+  <desc id="desc">A folded map contains linked event markers with a small time dial.</desc>
+  <g stroke="#18324A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 59l68-22 72 22 68-22v151l-68 22-72-22-68 22z" fill="#F5F7FB"/>
+    <path d="M92 37v151M164 59v151" fill="none" stroke="#CBD5E1"/>
+    <path d="M53 132c31-31 60 31 91 0s49-13 65-34" fill="none" stroke="#14877D"/>
+    <circle cx="53" cy="132" r="9" fill="#315EFB" stroke="none"/>
+    <circle cx="144" cy="132" r="9" fill="#D97745" stroke="none"/>
+    <circle cx="209" cy="98" r="9" fill="#14877D" stroke="none"/>
+    <circle cx="193" cy="176" r="35" fill="#FFFFFF"/>
+    <path d="M193 154v23l16 10" fill="none" stroke="#315EFB"/>
+  </g>
+</svg>

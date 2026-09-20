@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Historical place identity resolution</title>
+  <desc id="desc">Two dated record cards converge on one resolved place marker.</desc>
+  <g stroke="#18324A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="24" y="44" width="82" height="112" rx="13" fill="#F5F7FB"/>
+    <rect x="42" y="62" width="82" height="112" rx="13" fill="#FFFFFF" stroke="#315EFB"/>
+    <path d="M60 88h43M60 108h31M60 130h39" fill="none" stroke="#CBD5E1"/>
+    <path d="M116 107c34 0 39 31 62 31M122 146c27 0 32-8 56-8" fill="none" stroke="#14877D"/>
+    <path d="M231 139c0 28-35 57-35 57s-35-29-35-57a35 35 0 1 1 70 0z" fill="#315EFB"/>
+    <circle cx="196" cy="139" r="11" fill="#FFFFFF" stroke="none"/>
+    <circle cx="116" cy="107" r="7" fill="#D97745" stroke="none"/>
+    <circle cx="122" cy="146" r="7" fill="#14877D" stroke="none"/>
+  </g>
+</svg>

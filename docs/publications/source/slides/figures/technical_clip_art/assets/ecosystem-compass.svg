@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Mentoring across an ecosystem</title>
+  <desc id="desc">A compass anchors three connected ecosystem nodes.</desc>
+  <g stroke="#17324D" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="72" fill="#F8F6FF" stroke="#8C52FF"/>
+    <circle cx="128" cy="128" r="18" fill="#FFFFFF"/>
+    <path d="M143 113l35-35-20 50-15-15z" fill="#00A85A"/>
+    <path d="M113 143l-35 35 20-50 15 15z" fill="#FFD95A"/>
+    <path d="M128 56V31M66 92L43 79M190 164l23 13" fill="none" stroke="#CBD5E1"/>
+    <circle cx="128" cy="25" r="13" fill="#8C52FF" stroke="none"/>
+    <circle cx="34" cy="74" r="13" fill="#00A85A" stroke="none"/>
+    <circle cx="222" cy="182" r="13" fill="#FFD95A" stroke="none"/>
+  </g>
+</svg>

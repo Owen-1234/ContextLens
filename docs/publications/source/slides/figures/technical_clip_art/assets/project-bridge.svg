@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Related projects bridge</title>
+  <desc id="desc">An archive record stack and an investigative dossier remain separate while a curved bridge connects them.</desc>
+  <g fill="none" stroke="#18324A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M25 192h76" stroke="#CBD5E1"/>
+    <path d="M155 192h76" stroke="#CBD5E1"/>
+    <rect x="27" y="103" width="69" height="84" rx="10" fill="#F5F7FB"/>
+    <path d="M38 91h69v84" fill="#FFFFFF" stroke="#315EFB"/>
+    <path d="M50 110h42M50 126h30M50 142h38" stroke="#CBD5E1" stroke-width="4"/>
+    <path d="M49 159c11-10 24-13 42-8" stroke="#14877D"/>
+    <circle cx="82" cy="105" r="8" fill="#14877D" stroke="none"/>
+    <path d="M161 90h57l18 18v79h-75z" fill="#F5F7FB" stroke="#315EFB"/>
+    <path d="M218 90v20h18" fill="#FFFFFF" stroke="#315EFB"/>
+    <path d="M174 120h42M174 137h34M174 154h24" stroke="#CBD5E1" stroke-width="4"/>
+    <circle cx="203" cy="155" r="23" fill="#FFFFFF" stroke="#14877D"/>
+    <path d="M220 172l18 18" stroke="#14877D" stroke-width="7"/>
+    <path d="M98 168c20-39 40-48 65-22" stroke="#18324A" stroke-dasharray="7 9"/>
+    <circle cx="113" cy="147" r="7" fill="#D97745" stroke="none"/>
+    <circle cx="143" cy="137" r="7" fill="#14877D" stroke="none"/>
+  </g>
+</svg>

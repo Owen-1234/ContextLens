@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Linked reference records</title>
+  <desc id="desc">A stack of reference papers connects to a small citation network.</desc>
+  <g stroke="#18324A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="31" y="50" width="126" height="154" rx="14" fill="#E8EEF8" stroke="#315EFB"/>
+    <rect x="48" y="35" width="126" height="154" rx="14" fill="#FFFFFF"/>
+    <path d="M72 72h74M72 99h61M72 126h74M72 153h48" fill="none" stroke="#CBD5E1"/>
+    <path d="M175 92h33v38M175 165h33v-35" fill="none" stroke="#14877D"/>
+    <circle cx="175" cy="92" r="10" fill="#315EFB" stroke="none"/>
+    <circle cx="208" cy="130" r="10" fill="#D97745" stroke="none"/>
+    <circle cx="175" cy="165" r="10" fill="#14877D" stroke="none"/>
+  </g>
+</svg>

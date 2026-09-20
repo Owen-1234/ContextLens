@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Controlled evidence compiler stages</title>
+  <desc id="desc">An input record passes through four connected processing stages into a dossier.</desc>
+  <g stroke="#18324A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 76h40l15 15v75H18z" fill="#FFFFFF"/>
+    <path d="M58 76v16h15" fill="#F5F7FB"/>
+    <path d="M74 121h19M123 121h18M171 121h18M219 121h14" fill="none" stroke="#CBD5E1"/>
+    <rect x="91" y="91" width="32" height="60" rx="10" fill="#DDF3EE" stroke="#14877D"/>
+    <rect x="140" y="91" width="32" height="60" rx="10" fill="#E8EEF8" stroke="#315EFB"/>
+    <rect x="189" y="91" width="32" height="60" rx="10" fill="#F1EAFB" stroke="#8C52FF"/>
+    <circle cx="107" cy="108" r="6" fill="#14877D" stroke="none"/>
+    <circle cx="156" cy="108" r="6" fill="#315EFB" stroke="none"/>
+    <circle cx="205" cy="108" r="6" fill="#D97745" stroke="none"/>
+    <path d="M231 84h10v74h-10" fill="#FFF3D2" stroke="#D97745"/>
+  </g>
+</svg>

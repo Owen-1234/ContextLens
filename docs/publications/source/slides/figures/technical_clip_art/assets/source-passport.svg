@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Source Passport record</title>
+  <desc id="desc">An open source passport links a place record to its provenance chain.</desc>
+  <g stroke="#18324A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M27 50h88c18 0 29 9 29 24v133c-8-9-19-13-32-13H27z" fill="#F5F7FB"/>
+    <path d="M229 50h-56c-18 0-29 9-29 24v133c8-9 19-13 32-13h53z" fill="#FFFFFF"/>
+    <path d="M54 85h52M54 108h40M173 87h34M173 110h34" fill="none" stroke="#CBD5E1"/>
+    <path d="M104 146c0 19-23 38-23 38s-23-19-23-38a23 23 0 1 1 46 0z" fill="#315EFB"/>
+    <circle cx="81" cy="146" r="8" fill="#FFFFFF" stroke="none"/>
+    <circle cx="181" cy="151" r="18" fill="none" stroke="#14877D"/>
+    <circle cx="206" cy="151" r="18" fill="none" stroke="#D97745"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Resolved address dossier</title>
+  <desc id="desc">A place marker and dated record connect to an assembled evidence dossier.</desc>
+  <g stroke="#18324A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="23" y="48" width="89" height="142" rx="14" fill="#F5F7FB"/>
+    <path d="M91 99c0 21-26 43-26 43S39 120 39 99a26 26 0 1 1 52 0z" fill="#315EFB"/>
+    <circle cx="65" cy="99" r="9" fill="#FFFFFF" stroke="none"/>
+    <path d="M44 160h45" fill="none" stroke="#CBD5E1"/>
+    <path d="M112 119h36" fill="none" stroke="#CBD5E1" stroke-dasharray="7 10"/>
+    <circle cx="130" cy="119" r="7" fill="#D97745" stroke="none"/>
+    <path d="M150 70h36l14 18h34v105h-84z" fill="#FFFFFF" stroke="#14877D"/>
+    <path d="M169 111h46M169 137h46M169 163h31" fill="none" stroke="#CBD5E1"/>
+    <circle cx="214" cy="163" r="9" fill="#315EFB" stroke="none"/>
+  </g>
+</svg>
