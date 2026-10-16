@@ -1,16 +1,31 @@
-# AAAI-27 Demo Materials
+# Publication links and citation
 
-GitHub renders each PDF in the browser. Editable LaTeX sources are stored beside
-the compiled outputs so the paper, supplement, poster, and slides can be rebuilt
-without downloading a separate archive.
+**ContextLens: An Evidence-Grounded Agent for Verifiable Historical Address Investigation**
 
-| Deliverable | Browser preview | Editable source | Format |
-|---|---|---|---|
-| Demo paper | [View PDF](contextlens-aaai27-demo-paper.pdf) | [LaTeX](source/paper/) | 3 pages |
-| Technical supplement | [View PDF](contextlens-aaai27-supplement.pdf) | [LaTeX](source/supplement/) | 3 pages |
-| Academic poster | [View PDF](contextlens-aaai27-poster.pdf) | [LaTeX](source/poster/) | A0 portrait |
-| Presentation slides | [View PDF](contextlens-aaai27-slides.pdf) | [Beamer](source/slides/) | 20 slides |
-| Demonstration video | [Play video](../../media/contextlens-aaai-demo.mp4) | - | MP4 |
+A matching public OpenReview, arXiv, or proceedings record has not yet been verified. The conference link below provides venue information only; it is not a paper record or evidence of acceptance.
 
-The PDFs were compiled from the archived sources on 2026-09-20. Build commands
-and compiler requirements are documented in [`source/`](source/).
+- Official conference information: [AAAI-27 Demonstrations Program venue information](https://aaai.org/conference/aaai/aaai-27/demonstration-call/)
+
+The repository does not distribute manuscript or manuscript-supplement PDFs. Use the official paper links above when available.
+
+## Citation
+
+```bibtex
+@misc{contextlens2026manuscript,
+  title={ContextLens: An Evidence-Grounded Agent for Verifiable Historical Address Investigation},
+  author={Anonymous Submission},
+  year={2026},
+  note={Unpublished manuscript. No verified public paper identifier as of 2026-10-16. Authorship follows the anonymous manuscript.}
+}
+```
+
+Machine-readable citation: [`CITATION.bib`](../../CITATION.bib).
+
+## Presentation materials
+
+Posters and presentation slides remain available separately from the manuscript.
+
+- [`contextlens-aaai27-poster.pdf`](contextlens-aaai27-poster.pdf)
+- [`contextlens-aaai27-slides.pdf`](contextlens-aaai27-slides.pdf)
+
+Editable LaTeX materials: [`source/`](source/).

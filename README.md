@@ -15,10 +15,10 @@ Turn one historical Shanghai address into four source-backed answers:
 </p>
 
 <p>
-  <a href="docs/publications/contextlens-aaai27-demo-paper.pdf"><img alt="Read the AAAI-27 demo paper" src="https://img.shields.io/badge/Paper-PDF-8B1E3F?style=for-the-badge"></a>
+  <a href="docs/publications/README.md"><img alt="Publication status and official AAAI-27 program information" src="https://img.shields.io/badge/Paper-Publication_Status-8B1E3F?style=for-the-badge"></a>
   <a href="docs/publications/contextlens-aaai27-poster.pdf"><img alt="View the poster" src="https://img.shields.io/badge/Poster-PDF-1F5C99?style=for-the-badge"></a>
   <a href="docs/publications/contextlens-aaai27-slides.pdf"><img alt="View the slides" src="https://img.shields.io/badge/Slides-PDF-6B4FA1?style=for-the-badge"></a>
-  <a href="docs/publications/contextlens-aaai27-supplement.pdf"><img alt="Read the supplement" src="https://img.shields.io/badge/Supplement-PDF-2F6B5F?style=for-the-badge"></a>
+  <a href="docs/publications/README.md"><img alt="Supplement availability and source information" src="https://img.shields.io/badge/Supplement-Source-2F6B5F?style=for-the-badge"></a>
 </p>
 
 <p>
@@ -39,12 +39,19 @@ Turn one historical Shanghai address into four source-backed answers:
 
 ---
 
+## Official publication links
+
+- [AAAI-27 Demonstrations Program venue information](https://aaai.org/conference/aaai/aaai-27/demonstration-call/)
+
+A public paper record has not yet been verified. The conference page provides venue information only.
+- [Citation and publication details](docs/publications/README.md) · [BibTeX](CITATION.bib)
+
 ## Research Outputs
 
 | Output | Description | Access |
 |---|---|:---:|
-| Demo paper | *ContextLens: An Evidence-Grounded Agent for Verifiable Historical Address Investigation* | [Preview](docs/publications/contextlens-aaai27-demo-paper.pdf) · [Source](docs/publications/source/paper/) |
-| Technical supplement | Architecture, data flow, and appendix | [Preview](docs/publications/contextlens-aaai27-supplement.pdf) · [Source](docs/publications/source/supplement/) |
+| Demo paper | *ContextLens: An Evidence-Grounded Agent for Verifiable Historical Address Investigation* | [Publication status](docs/publications/README.md) · [Source](docs/publications/source/paper/) |
+| Technical supplement | Architecture, data flow, and appendix | [Source](docs/publications/source/supplement/) |
 | Academic poster | A0 visual summary | [Preview](docs/publications/contextlens-aaai27-poster.pdf) · [Source](docs/publications/source/poster/) |
 | Presentation slides | Final revised 20-slide Beamer deck | [Preview](docs/publications/contextlens-aaai27-slides.pdf) · [Beamer source](docs/publications/source/slides/) |
 | Demo video | Recorded ContextLens walkthrough | [Play](media/contextlens-aaai-demo.mp4) |
